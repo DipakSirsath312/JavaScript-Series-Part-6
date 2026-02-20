@@ -13,3 +13,4 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part-
 
 1. What are Funtion
 2. Practice_Qs1
+3. Practice_Qs2
