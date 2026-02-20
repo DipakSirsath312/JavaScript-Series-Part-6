@@ -12,5 +12,6 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part-
 📌JavaScript Topic :-
 
 1. What are Funtion
-2. Practice_Qs1
-3. Practice_Qs2
+2. index.html
+3. Practice_Qs1
+4. Practice_Qs2
