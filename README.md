@@ -17,3 +17,4 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part-
 4. Practice_Qs2
 5. Functions With Arguments
 6. Practice_Qs3
+7. Practice_Qs4
