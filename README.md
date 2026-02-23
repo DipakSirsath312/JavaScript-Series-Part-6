@@ -20,3 +20,5 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part-
 7. Practice_Qs4
 8. return Keyword
 9. Practice Qs5
+10. Practice Qs6
+
