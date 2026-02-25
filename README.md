@@ -26,3 +26,4 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part-
 10. Practice Qs6
 11. What is Scope
 12. Block Scope
+13. Lexical Scope
